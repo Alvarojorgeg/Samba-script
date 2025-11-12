@@ -160,4 +160,3 @@ Desarrollado por: Álvaro
 Proyecto realizado como práctica de administración de servicios de red (Samba).
 
 ✨ Gracias por ver este proyecto. ¡Puedes probarlo, adaptarlo o mejorarlo!
-// ...existing code...
