@@ -1,4 +1,3 @@
-// ...existing code...
 # 🖥️ Instalador y gestor de Samba
 
 Hola, soy **Álvaro** 👋  
